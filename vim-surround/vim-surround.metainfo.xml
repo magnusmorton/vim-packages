@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+<id>vim-surround</id>
+<extends>gvim.desktop</extends>
+<name>surround.vim</name>
+<summary>Delete/change/add parentheses/quotes/XML-tags/much more with ease</summary>
+<url type="homepage">http://www.vim.org/scripts/script.php?script_id=1697</url>
+<metadata_license>CC0-1.0</metadata_license>
+<project_license>VIM</project_license>
+<updatecontact>magnus@morton.ai</updatecontact>
+</component>
