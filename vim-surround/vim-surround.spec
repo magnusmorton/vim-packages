@@ -9,8 +9,6 @@ URL: http://www.vim.org/scripts/script.php?script_id=1697
 Source0: https://github.com/tpope/vim-surround/archive/v%{version}/%{name}-%{version}.tar.gz
 
 # Plug-in AppData for Gnome Software.
-# https://github.com/tpope/vim-commentary/pull/52
-# Upstream does not seem interested in merging. 
 Source1: vim-surround.metainfo.xml
 Requires: vim-common
 Requires(post): %{_bindir}/vim
